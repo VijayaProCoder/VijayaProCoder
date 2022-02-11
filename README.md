@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jadi Vijayalaxmi</h1>
-<h3 align="center">A intuitive of the DataScience</h3>
+<h3 align="center">A intuitive sense of data</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-- 🔭 I’m currently working on **Python Data Science**
+- 🔭 I’m currently working on **Data Science with Python**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Advance analytical skills**
 
 - 👯 I’m looking to collaborate on **finding complex patterns of data**
 
@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [Medium and Towards Data Science](Medium and Towards Data Science)
 
-- 💬 Ask me about **python, Data Analysis and Statistics**
+- 💬 Ask me about **python, Data Analysis **
 
 - 📫 How to reach me **jadivijayalaxmi@outlook.com**
 
 - 📄 Know about my experiences [https//www.linkedin.com/in/jadi-vijayalaxmi-815804231/](https//www.linkedin.com/in/jadi-vijayalaxmi-815804231/)
 
-- ⚡ Fun fact **Smart Learner**
+- ⚡ Fun fact **continuous Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
