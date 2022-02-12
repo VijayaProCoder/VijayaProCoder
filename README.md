@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VijayaProCoder](https://github.com/VijayaProCoder)
 
-- 📝 I regularly write articles on [[Medium and Towards DataScience](Medium and Towards DataScience)]([Medium and Towards DataScience](Medium and Towards DataScience))
+- 📝 I regularly write articles on [Medium and Towards DataScience]
 
 - 💬 Ask me about **python, Data Analysis**
 
